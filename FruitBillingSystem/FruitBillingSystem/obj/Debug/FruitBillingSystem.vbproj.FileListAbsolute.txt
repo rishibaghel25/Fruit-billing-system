@@ -1,0 +1,15 @@
+D:\FruitBillingSystem\FruitBillingSystem\FruitBillingSystem\bin\Debug\FruitBillingSystem.exe.config
+D:\FruitBillingSystem\FruitBillingSystem\FruitBillingSystem\bin\Debug\FruitBillingSystem.exe
+D:\FruitBillingSystem\FruitBillingSystem\FruitBillingSystem\bin\Debug\FruitBillingSystem.pdb
+D:\FruitBillingSystem\FruitBillingSystem\FruitBillingSystem\bin\Debug\FruitBillingSystem.xml
+D:\FruitBillingSystem\FruitBillingSystem\FruitBillingSystem\obj\Debug\WindowsApplication1.Form1.resources
+D:\FruitBillingSystem\FruitBillingSystem\FruitBillingSystem\obj\Debug\WindowsApplication1.Resources.resources
+D:\FruitBillingSystem\FruitBillingSystem\FruitBillingSystem\obj\Debug\FruitBillingSystem.vbproj.GenerateResource.Cache
+D:\FruitBillingSystem\FruitBillingSystem\FruitBillingSystem\obj\Debug\FruitBillingSystem.exe
+D:\FruitBillingSystem\FruitBillingSystem\FruitBillingSystem\obj\Debug\FruitBillingSystem.xml
+D:\FruitBillingSystem\FruitBillingSystem\FruitBillingSystem\obj\Debug\FruitBillingSystem.pdb
+X:\New folder (2)\FruitBillingSystem-20221117T173648Z-001\FruitBillingSystem\FruitBillingSystem\obj\Debug\FruitBillingSystem.vbproj.AssemblyReference.cache
+X:\New folder (2)\FruitBillingSystem-20221117T173648Z-001\FruitBillingSystem\FruitBillingSystem\obj\Debug\FruitBillingSystem.vbproj.SuggestedBindingRedirects.cache
+X:\New folder (2)\FruitBillingSystem-20221117T173648Z-001\FruitBillingSystem\FruitBillingSystem\obj\Debug\FruitBillingSystem.exe
+X:\New folder (2)\FruitBillingSystem-20221117T173648Z-001\FruitBillingSystem\FruitBillingSystem\obj\Debug\FruitBillingSystem.xml
+X:\New folder (2)\FruitBillingSystem-20221117T173648Z-001\FruitBillingSystem\FruitBillingSystem\obj\Debug\FruitBillingSystem.pdb
